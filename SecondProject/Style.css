@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+font-family: 'Kanit', sans-serif;
+}
+.Orange-color{
+  color: darkorange;
+} 
+h2{
+  font-size:30px;
+}
+h1{
+  font-size: 60px;
+}
+
+.open-path{
+float: left;
+margin-left: 5%;
+width: 40%;
+}
+.open-path img{
+  width: 100%;
+}
+.bc-image{
+  background-image:url(/images/header-bg.png); 
+}
+section{
+  height: 500px;
+  padding-bottom: 600px;
+}
+.link-button{
+  text-decoration: none;
+ padding: 10px 20px;
+ background-color: orange;
+ color: white;
+ font-weight: 700;
+}
+.bc2-image{
+  background-image:url(/images/biography-bg.png); 
+  
+}
+#bio{
+  font-size: 30px;
+margin-top: 150px;
+}
+* {
+  box-sizing: border-box;
+}
+.sec3{
+  background-image:url(/images/latest-work-bg.png);
+}
+.close-path{
+float: left;
+  width: 33.33%;
+  padding-left: 3%;
+  
+  }
+#bold{
+  font-size: 30px;
+  font-weight: 700;
+}
+.sec4{
+  background-image:url(/images/footer-bg.png);
+
+ }
+/*.center{
+  height: 100%;
+  width: 100%;
+  place-items: center;
+}*/
+#box-color{
+background-color: greenyellow;
+height: 10%;
+width: 20%;
+ color: white;
+
+}
+#box{
+
+  text-align: center;
+height: 40px;
+width: 500px;
+background-color: lightblue;
+margin: auto;
+padding-bottom: 120px;
+
+  
+}
+.big{
+  font-size: 30px;
+  font-weight: 700;
+  height: 40px;
+  width: 500px;
+    background-color: lightblue;
+  margin:auto;
+  padding-bottom: 50px;
+ 
+}
