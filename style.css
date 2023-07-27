@@ -50,3 +50,8 @@ padding-bottom: 120px;
   border-left: 7px solid;
   border-color: blue;
 }
+.Experience-area{
+  background-image:url(/images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
