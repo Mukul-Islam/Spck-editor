@@ -25,7 +25,7 @@ width: 40%;
 }
 section{
   height: 500px;
-  padding-bottom: 600px;
+  padding-bottom: 500px;
 }
 .link-button{
   text-decoration: none;
@@ -47,6 +47,9 @@ margin-top: 150px;
 }
 .sec3{
   background-image:url(/images/latest-work-bg.png);
+  text-align: center;
+  padding-top: 100px;
+  margin: auto;
 }
 .close-path{
 float: left;
@@ -74,14 +77,14 @@ width: 20%;
  color: white;
 
 }
-#box{
+.box{
 
   text-align: center;
 height: 40px;
 width: 500px;
 background-color: lightblue;
 margin: auto;
-padding-bottom: 120px;
+padding-bottom: 20px;
 
   
 }
